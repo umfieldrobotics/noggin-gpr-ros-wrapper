@@ -13,6 +13,8 @@ url       = {https://arxiv.org/abs/2404.09094}
 }
 ```
 
+The driver was adapted from https://github.com/alexbaikovitz/noggin_gpr_node and then adapted for Python 3 and ROS Melodic.
+
 ## Usage
 
 This driver was written for the Noggin 500 MHz GPR sensor with the SpidarSDK software. In order to use this wrapper, your sensor needs to be in SDK mode. More information can be found in the [sensor manual](https://www.sensoft.ca/wp-content/uploads/2020/03/Noggin_User_Guide.pdf).
