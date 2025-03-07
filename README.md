@@ -3,13 +3,12 @@
 This ROS 1 driver was developed to aid the work conducted for ["Learning Surface Terrain Classifications from Ground Penetrating Radar"](https://arxiv.org/abs/2404.09094), to be presented at CVPR 2024 Perception Beyond the Visible Spectrum Workshop. If you use this code, please cite:
 
 ```
-@inproceedings{Sheppard_2024,
-author    = {Anja Sheppard and Jason Brown and Nilton Renno and Katherine A. Skinner},
-title     = {Learning Surface Terrain Classifications from Ground Penetrating Radar},
-booktitle = {Computer Vision and Pattern Recognition {CVPR} Workshop Proceedings 2024},
-publisher = {CVPR},
-year      = {2024},
-url       = {https://arxiv.org/abs/2404.09094}
+@inproceedings{sheppard2024,
+  title={Learning Surface Terrain Classifications from Ground Penetrating Radar},
+  author={Sheppard, Anja and Brown, Jason and Renno, Nilton and Skinner, Katherine A},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={3047--3055},
+  year={2024}
 }
 ```
 
